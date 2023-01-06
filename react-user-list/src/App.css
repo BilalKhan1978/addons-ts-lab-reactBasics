@@ -1,0 +1,33 @@
+.app {
+  background: #152d3d;
+  padding: 30px;
+}
+
+.name {
+  display: flex;
+  /* flex-direction: column; */
+  background: #d18686;
+  border-radius: 4px;
+  padding: 5px;
+}
+.age {
+  display: flex;
+  /* flex-direction: column; */
+  background: #debbbb;
+  border-radius: 4px;
+  padding: 5px;
+}
+.address {
+  display: flex;
+  /* flex-direction: column; */
+  background: #cec1c1;
+  border-radius: 4px;
+  padding: 5px;
+}
+.buttonClass {  
+  color:white;  
+  background: rgb(157, 63, 78);
+  font-size: 16px;  
+  margin-bottom: 6px;
+  padding: 3px 10px;
+}
